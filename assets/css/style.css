@@ -50,4 +50,6 @@ table tr td:last-child {
   font-size: 2em;
 }
 
-  
+.pic {
+	background-color: black
+}
